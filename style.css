@@ -16,22 +16,18 @@ img.img_carta
     width: 100px;
     height: 100px;
 }
-.cafe
+p.cafe
 {
-    color: #813a34;
     text-align: center;
-    text-decoration: none;
 }
 img.img_cafe
 {
     width: 100px;
     height: 100px;
 }
-.contacto
+p.contacto
 {
-    color: #813a34;
     text-align: right;
-    text-decoration: none;
 }
 img.img_contacto
 {
@@ -45,4 +41,9 @@ img.img_contacto
 .color_cafe
 {
     color: #9e2014;
+}
+.enlace
+{
+    color: #813a34;
+    text-decoration: none;
 }
