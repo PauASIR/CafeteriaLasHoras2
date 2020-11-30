@@ -29,7 +29,9 @@ img.img_cafe
 }
 p.contacto
 {
+    color: #813a34;
     text-align: right;
+    text-decoration: none;
 }
 img.img_contacto
 {
