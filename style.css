@@ -11,7 +11,7 @@ p.carta
 {
     text-align: left;
 }
-img.img_carta
+img.img_index
 {
     width: 100px;
     height: 100px;
@@ -20,19 +20,9 @@ p.cafe
 {
     text-align: center;
 }
-img.img_cafe
-{
-    width: 100px;
-    height: 100px;
-}
 p.contacto
 {
     text-align: right;
-}
-img.img_contacto
-{
-    width: 100px;
-    height: 100px;
 }
 .color
 {
@@ -46,4 +36,9 @@ img.img_contacto
 {
     color: #813a34;
     text-decoration: none;
+}
+img.img_contacto
+{
+    width: 50px;
+    height: 50px;
 }
