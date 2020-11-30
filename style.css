@@ -1,0 +1,42 @@
+body
+{
+    background-color: #f5e3cd;
+}
+h1.titulo
+{
+    text-align: center;
+    color: #650205;
+}
+p.carta
+{
+    text-align: left;
+}
+img.img_carta
+{
+    width: 100px;
+    height: 100px;
+}
+.cafe
+{
+    color: #813a34;
+    text-align: center;
+    text-decoration: none;
+}
+img.img_cafe
+{
+    width: 100px;
+    height: 100px;
+}
+p.contacto
+{
+    text-align: right;
+}
+img.img_contacto
+{
+    width: 100px;
+    height: 100px;
+}
+.color
+{
+    color: #813a34;
+}
