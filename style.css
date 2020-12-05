@@ -46,5 +46,15 @@ img.img_contacto
 p.reservas
 {
     background-color: sandybrown;
-    display: inline;   
+    display: block;   
+    box-sizing: border-box;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.contacto
+{
+    display: block;
+    margin-left: 150px;
 }
